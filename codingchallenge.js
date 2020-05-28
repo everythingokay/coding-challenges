@@ -271,7 +271,6 @@
 // friend Billy is my friend
 
 
-
 // 16. Create a while loop that “sings” the classic song “99 Bottles
 // of Root Beer on the Wall”
 // The code it outputs to the console should look similar to this:
@@ -287,6 +286,44 @@
 // 	alert(beers+" bottles of beer on the wall, "+beers+" bottles of beer.");
 // 	alert("Take one down and pass it around, "+ (beers-1)+" bottles of beer on the wall.")
 // }
+
+
+
+// WEEK 4 - 2/18/20
+
+//1. Write a function that lists the first and
+// last names of all the Beatles
+
+// var data = [
+//    {first: "George", last: "Harrison"},
+//    {first: "Paul", last: "McCartney"},
+//    {first: "Ringo", last: "Starr"},
+//    {first: "John", last:"Lennon"}
+// ]
+ 
+// function Beatles() {
+//     for(var i = 0; i < data.length; i++) {
+//         console.log(data[i].first + " " + data[i].last)
+//     }
+// }
+
+
+// 2. Write a function that takes an array with numbers
+// as an argument and adds the sum of these numbers - 
+// start with a function that equals zero and assign
+// the sum of the array to it
+
+// array = [1, 2, 3, 4, 5]
+
+// function adding (array) {
+//    var sum = 0;
+//    for(var i = 0; i < array.length; i++) {
+//       sum = sum + array[i]
+//    }
+//     console.log(sum)
+// }
+
+
 
 
 
